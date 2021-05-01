@@ -1,6 +1,6 @@
 # Pet Food Dispenser 
 
-This project is for the COP 5611 - Operating Systems Design Principles course. The project motivation comes for trying touse objection in conjuction of the I/O devices in this case PIR motion sensor and stepper motor. The objection detection is procees on the device thanks to the use of TensoFlow Lite and uses the Coco v1 model. I used the tutorial and modify the example code provided by Digi-Key. Here is the link to the tutorial [How to Perform Object Detection with TensorFlow Lite on Raspberry Pi](https://www.digikey.com/en/maker/projects/how-to-perform-object-detection-with-tensorflow-lite-on-raspberry-pi/b929e1519c7c43d5b2c6f89984883588).
+This project is for the COP 5611 - Operating Systems Design Principles course. The project motivation comes for trying to use object detection in conjuction with I/O devices, in this case a PIR motion sensor, a camera and a stepper motor. The objection detection is processed on the device thanks to TensoFlow Lite and uses the Coco v1 model. I used the tutorial and modify the example code provided by Digi-Key. Here is the link to the tutorial [How to Perform Object Detection with TensorFlow Lite on Raspberry Pi](https://www.digikey.com/en/maker/projects/how-to-perform-object-detection-with-tensorflow-lite-on-raspberry-pi/b929e1519c7c43d5b2c6f89984883588).
 
 **The following files are included:**
 * pet_food_dispenser.py 
